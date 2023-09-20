@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "L7805")(type "Legacy")(uri "D:/Helber Elektronika Indonesia/Library KiCad/L7805.lib")(options "")(descr ""))
+  (lib (name "ABS25-32.768KHZ-6-T")(type "Legacy")(uri "D:/Helber Elektronika Indonesia/Library KiCad/CrystalStm32/ABS25-32.768KHZ-6-T.lib")(options "")(descr ""))
+  (lib (name "DTMI-rescue")(type "KiCad")(uri "${KIPRJMOD}/DTMI-rescue.kicad_sym")(options "")(descr ""))
+)
